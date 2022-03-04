@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+# 💻 Zip code Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">This project is a zip code finder...</p>
 
-## Available Scripts
+<br/>
 
-In the project directory, you can run:
+# 📓 Contents:
 
-### `npm start`
+- About
+    - [Features](#Features)
+- Contents,
+- How to use
+    - [Prerequisites](#Prerequisites)
+    - [Running the project](#Running-the-project)
+- Tests,
+- Technologies,
+- Icons.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# About:
 
-### `npm test`
+### Features:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [x] Create Title
+- [x] Create Project
+- [x] Create Description
+- [x] Performed Tests
 
-### `npm run build`
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📝 How to use:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites:
 
-### `npm run eject`
+You need to have the following tools installed on your machine: [Git](https://git-scm.com), [Node](https://nodejs.org/en/) and [VSCode](https://code.visualstudio.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Running the project:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# Clone this repository
+$ git clone <https://github.com/bortolettojoaog/zip-code_finder.git>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Access the project folder through terminal/cmd
+$ cd zip-code_finder
 
-## Learn More
+# Install node
+$ <https://nodejs.org/en/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Open visual studio code terminal using `CTRL + J`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Install all dependencies
+$ npm install
 
-### Code Splitting
+# Turn on the server
+$ npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br/>
 
-### Analyzing the Bundle Size
+# ✔️ Tests:
+<h1 align="center">
+    <img alt="Test" title="Test" src="./github/tests.gif" />
+</h1>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br/>
 
-### Making a Progressive Web App
+# 🛠️ Technologies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The following tools were used in building the project:
 
-### Advanced Configuration
+- [JavaScript](https://www.javascript.com/)
+- [HTML](https://pt.wikipedia.org/wiki/HTML)
+- [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org/en/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br/>
 
-### Deployment
+# 📁 Icons:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- :package: new functionality
+- :up: update
+- :bug: bug fix
+- :checkered_flag: release
 
-### `npm run build` fails to minify
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+<p align="center">
+    Made with ❤️ by João Guilherme Bortoletto 👋
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/bortolettojoaog/">See my LinkedIn</a>
+</a>
